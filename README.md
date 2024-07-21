@@ -9,3 +9,4 @@ Mentor: Sravani Gouni
 Design a program that can store student information (name, roll number, subject marks)
 and calculate their overall percentage and grade based on pre-defined grade criteria.
 Include the ability to add, update, and delete student records.
+![Screenshot (29)](https://github.com/user-attachments/assets/6a0daec7-c123-4765-8bb0-43b6f8a89e88)
